@@ -8,6 +8,7 @@ def test_solutions_1():
     result = sol.singleNumber(x)
     assert result == 1
 
+
 def test_solutions_2():
     sol = Solution()
     x = [9, 323232,1233,323232,1233]
