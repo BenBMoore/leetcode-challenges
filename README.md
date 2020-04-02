@@ -3,7 +3,7 @@ My public repository of leet code challenges from the 30 day leetcode event: htt
 
 ## Day 1 - [Single Number](https://github.com/BenBMoore/leetcode-challenges/tree/master/Day%201)
 
-## Day 2 - Title 2:
+## Day 2 - [Happy Number](https://github.com/BenBMoore/leetcode-challenges/tree/master/Day%202)
 
 ## Day 3 - Title 3:
 
