@@ -5,6 +5,6 @@ My public repository of leet code challenges from the 30 day leetcode event: htt
 
 ## Day 2 - [Happy Number](https://github.com/BenBMoore/leetcode-challenges/tree/master/Day%202)
 
-## Day 3 - [Maximum Subarray]()
+## Day 3 - [Maximum Subarray](https://github.com/BenBMoore/leetcode-challenges/tree/master/Day%203)
 
 
