@@ -7,4 +7,4 @@ My public repository of leet code challenges from the 30 day leetcode event: htt
 
 ## Day 3 - [Maximum Subarray](https://github.com/BenBMoore/leetcode-challenges/tree/master/Day%203)
 
-
+## Day 4 - [Move Zeroes](https://github.com/BenBMoore/leetcode-challenges/tree/master/Day%20)
