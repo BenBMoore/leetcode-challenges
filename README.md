@@ -10,3 +10,5 @@ My public repository of leet code challenges from the 30 day leetcode event: htt
 ## Day 4 - [Move Zeroes](https://github.com/BenBMoore/leetcode-challenges/tree/master/Day%20)
 
 ## Day 5 - [Best Time to Buy and Sell Stock II](https://github.com/BenBMoore/leetcode-challenges/tree/master/Day%205)
+
+## Day 6 - [Group Anagrams](https://github.com/BenBMoore/leetcode-challenges/tree/master/Day%206)
